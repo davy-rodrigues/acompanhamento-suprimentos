@@ -2,6 +2,8 @@
 
 Projeto em Streamlit para análise de pedidos.
 
+
+
 ## Como rodar
 
 pip install -r requirements.txt  
